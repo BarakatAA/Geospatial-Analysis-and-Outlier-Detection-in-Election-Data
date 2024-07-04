@@ -1,4 +1,4 @@
-# Geospatial-Analysis-and-Outlier-Detection-in-Election-Data
+# Geospatial Analysis and Outlier Detection in Election Data
 
 This project focuses on ensuring the integrity and transparency of electoral processes through geospatial analysis and outlier detection in election data. By analyzing polling data from the Yobe region, I identified polling units with voting patterns significantly different from their geographical neighbors, which might indicate anomalies or potential fraud.
 
